@@ -1,12 +1,12 @@
 Project Euler
 =============
 <a href="http://www.projecteuler.net">
-<img alt="Project Euler Logo" src="http://grokcode.com/wordpress/wp-content/uploads/project_euler.png" />
+    <img alt="Project Euler Logo" src="http://grokcode.com/wordpress/wp-content/uploads/project_euler.png" />
 </a>
 
 Problems
 ------
-#### #1 : Multiples of 3 and 5 #2: Even Fibonacci numbers
+#### #1: Multiples of 3 and 5 #2: Even Fibonacci numbers
 >If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
 >Find the sum of all the multiples of 3 or 5 below N.
@@ -16,3 +16,8 @@ Problems
 >1,2,3,5,8,13,21,34,55,89,⋯
 
 >By considering the terms in the Fibonacci sequence whose values do not exceed N, find the sum of the even-valued terms.
+
+#### #3: Largest prime factor
+>The prime factors of 13195 are 5, 7, 13 and 29.
+
+>What is the largest prime factor of a given number N?
